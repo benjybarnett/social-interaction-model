@@ -1,5 +1,5 @@
 # social-interaction-model
-MATLAB code for a novel adaptation of the Froese, T., &amp; Di Paolo, E. A. (2008, July) paper.
+MATLAB code for a novel agent based adaptation of the Froese, T., &amp; Di Paolo, E. A. (2008, July) model.
 
 A novel adaptation of the paper: Froese, T., & Di Paolo, E. A. (2008, July). Stability of coordination requires mutuality 
 of interaction in a model of embodied agents. In International Conference on Simulation of Adaptive Behavior (pp. 52-61).
